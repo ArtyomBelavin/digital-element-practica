@@ -12,21 +12,21 @@ export const InfoSection = () => {
             </h2>
           </div>
           <Card
-            cardPath="./public/card-1.png"
+            cardPath="./card-1.png"
             cardTitle="Bring Technology To Your
                                 Comfrotable Home"
             cardDescription=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                 incididunt ut labore et dolore magna aliqua."
           />
           <Card
-            cardPath="./public/card-2.png"
+            cardPath="./card-2.png"
             cardTitle="Make Your business To Be
                                 Better Famous In Internet"
             cardDescription=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                                 incididunt ut labore et dolore magna aliqua."
           />
           <Card
-            cardPath="./public/card-3.png"
+            cardPath="./card-3.png"
             cardTitle="Bring Technology To Your <br>
                                 Comfrotable Home"
             cardDescription="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
